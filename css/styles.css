@@ -1,0 +1,65 @@
+.card.bg-primary {
+    background-color:#00b354!important;
+}
+.card.bg-grey {
+    background-color:#ddd!important;
+}
+
+.card.bg-grey .card-title,
+.card.bg-grey .card-text {
+    text-align:center;
+}
+
+ul.navbar-nav {
+    margin-left:auto;
+}
+.nav-link {
+    margin:0;
+}
+
+.nav-link.active {
+    color:green!important;
+    display:block;
+    background-color:#eee;
+    padding:.5em!important;
+}
+
+.navbar-nav {
+    padding:1em 0 0 0!important;
+}
+
+.img-navbar {
+    width:48px;
+}
+
+
+.statusmsg {
+    padding:1em;
+    text-align:center;
+    font-weight:bold;
+    color:grey;
+}
+
+.card-title.ad {
+    padding:0;
+    margin:0;
+    background-color:lightgrey;
+}
+.card-title.ad h5 {
+    text-align:center;
+    margin:0;
+}
+
+.card-header.ad {
+    margin:0 !important;
+    padding:.5em!important;
+}
+.card-header.ad span {
+    width:24%;
+    display:inline-block;
+}
+
+.card-body.ad span {
+    width:24%;
+    display:inline-block;
+}
